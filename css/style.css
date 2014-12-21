@@ -1,0 +1,36 @@
+ #header {
+	background-image: url("stripes.png");
+	background-repeat: repeat-x;
+	height: 10px;
+}
+
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  margin: 0px;
+}
+
+#logo {
+	margin-top: 300px;
+	margin-left: 150px;
+}
+
+p {
+	font-family: arial, sans-serif;
+	color: #ffffff;
+	margin-bottom: 25px;
+	margin-left: 150px;
+}
+
+hr {
+	width: 45px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 150px;
+	border-color: #ff6666
+}
+
+a {
+	margin-left: 150px;
+}

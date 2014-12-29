@@ -1,0 +1,22 @@
+h1 {
+	font-family: 'Maven Pro', sans-serif;
+}
+
+body {
+  background-image: url("bar.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  margin: 0px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#name {
+	background-color: black;
+	opacity: 0.85;
+	color: white;
+	text-align: center;
+	margin: 100px;
+	padding: 100px;
+	font-family: 'Maven Pro', sans-serif;
+}

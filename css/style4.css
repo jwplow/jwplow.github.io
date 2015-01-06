@@ -1,5 +1,22 @@
 h1 {
-	font-family: 'Maven Pro', sans-serif;
+	font-family: 'Dancing Script', cursive;
+}
+
+#name {
+	background-color: black;
+	opacity: 0.87;
+	color: white;
+	text-align: center;
+	font-family: 'Georgia', sans-serif;
+	letter-spacing: 1.5px;
+	font-size: 12px;
+	line-height: 150%;
+	margin: 50px;
+	padding-top: 50px;
+	padding-bottom: 35px;
+	padding-left: 50px;
+	padding-right: 50px;
+
 }
 
 body {
@@ -11,12 +28,6 @@ body {
   color: #ffffff;
 }
 
-#name {
-	background-color: black;
-	opacity: 0.85;
-	color: white;
-	text-align: center;
-	margin: 100px;
-	padding: 100px;
-	font-family: 'Maven Pro', sans-serif;
+hr {
+	width: 75px;
 }
